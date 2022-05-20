@@ -234,7 +234,7 @@ button {
     }
 
     .card img{
-        width: 90px;
+        width: 100%;
         height: 120px;
     }
     .card1 {
@@ -251,7 +251,7 @@ button {
     }
 
     .card1 img{
-        width: 90px;
+        width: 100%;
         height: 120px;
     }
 
